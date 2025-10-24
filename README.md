@@ -1,1 +1,1 @@
-Esercizi di assembly e bash svolti in laboratorio e a casa
+Esercizi di cisco packet tracer,python svolti in laboratorio e a casa
